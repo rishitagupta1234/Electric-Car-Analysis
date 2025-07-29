@@ -59,41 +59,41 @@ streamlit run electric_dashboard.py
 
 ## 🌟 Features
 
--> Raw electric car dataset cleaning using Pandas & NumPy
+- Raw electric car dataset cleaning using Pandas & NumPy
 
--> Missing value handling (mean for numeric, "Unknown" for categorical)
+- Missing value handling (mean for numeric, "Unknown" for categorical)
 
--> Statistical analysis with NumPy (mean, median, std dev, normalization)
+- Statistical analysis with NumPy (mean, median, std dev, normalization)
 
--> Interactive dashboard using Tableau Public
+- Interactive dashboard using Tableau Public
 
--> Streamlit app to embed Tableau dashboard
+- Streamlit app to embed Tableau dashboard
 
--> Clean folder structure for easy navigation
+- Clean folder structure for easy navigation
 
 ## 🧠 Challenges Faced
 
--> Handling missing values in multiple columns and deciding whether to fill or drop them.
+- Handling missing values in multiple columns and deciding whether to fill or drop them.
 
--> Understanding how to normalize numeric data using NumPy.
+- Understanding how to normalize numeric data using NumPy.
 
--> Embedding the Tableau dashboard into a Streamlit app without connection issues.
+- Embedding the Tableau dashboard into a Streamlit app without connection issues.
 
--> Cleaning column names and removing unnecessary columns from the raw dataset.
+- Cleaning column names and removing unnecessary columns from the raw dataset.
 
--> Making the dashboard visually appealing and easy to understand.
+- Making the dashboard visually appealing and easy to understand.
 
 ## 📚 Lessons Learned
 
--> How to clean and preprocess datasets using Pandas.
+- How to clean and preprocess datasets using Pandas.
 
--> How to perform statistical analysis and normalization using NumPy.
+- How to perform statistical analysis and normalization using NumPy.
 
--> How to create and publish interactive dashboards using Tableau Public.
+- How to create and publish interactive dashboards using Tableau Public.
 
--> How to integrate Tableau dashboards inside a Streamlit web app.
+- How to integrate Tableau dashboards inside a Streamlit web app.
 
--> How to manage a project structure and upload it properly to GitHub.
+- How to manage a project structure and upload it properly to GitHub.
 
 ## 👩‍💻 Author
 **Rishita Gupta**  
