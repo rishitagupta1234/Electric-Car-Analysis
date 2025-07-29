@@ -29,7 +29,7 @@ electric-car-analysis/
 ├── electric_dashboard.py         # Streamlit launcher for dashboard
 ├── README.md                     # Project explanation
 
-📌 Note: All `.xlsx` files are included so you can directly run the project without downloading extra datasets.
+**📌 Note:** All `.xlsx` files are included so you can directly run the project without downloading extra datasets.
 
 ## 📊 About the Dataset
 The dataset contains specifications of various electric vehicles, including technical and performance details.  
